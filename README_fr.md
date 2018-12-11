@@ -6,7 +6,7 @@
 
 Sample variable for repo: [[any_repo_var]]
 
-Version = 0.0.1 <br />
+Version = 0.0.2 <br />
 Library name = how_to_upload_package_to_pypi <br />
 Title = How to upload your python package to PyPi <br />
 Keywords = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />
@@ -14,7 +14,7 @@ Keywords = Git,  upload,  package,  repo, package pypi library module python git
 ### Hot to install
 
 ```sh
-pip3 install how_to_upload_package_to_pypi==0.0.1
+pip3 install how_to_upload_package_to_pypi==0.0.2
 ```
                     
 
