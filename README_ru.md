@@ -23,7 +23,7 @@ How to upload your python package to PyPi. Make your code publish-ready.
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.7 <br />
+Версия = 0.0.8 <br />
 Название библиотеки = how_to_upload_package_to_pypi <br />
 Название = How to upload your python package to PyPi <br />
 Ключевые слова = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />

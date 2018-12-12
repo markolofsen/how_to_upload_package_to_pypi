@@ -23,7 +23,7 @@ Non richiede software speciale: funziona nel browser.
 
 ### Provalo subito - <a href="https://gitupload.com">GtUpload.com</a>
 
-Versione = 0.0.7 <br />
+Versione = 0.0.8 <br />
 Nome libreria = how_to_upload_package_to_pypi <br />
 Title = How to upload your python package to PyPi <br />
 Parole chiave = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />
