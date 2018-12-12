@@ -4,8 +4,10 @@
 
 ---
 
-## Wie kann ich dein Python-Paket auf PyPi hochladen?
+## How to upload your python package to PyPi
 ## Modernes System zur automatisierten Veröffentlichung Ihres Codes in gängigen Repositorys: NPM, PyPi, GitHub
+
+How to upload your python package to PyPi. Make your code publish-ready.
 
 ### Testen Sie unser kostenloses Code-Publishing-Tool!
 
@@ -21,7 +23,7 @@ Benötigt keine spezielle Software - es funktioniert im Browser.
 
 ### Probieren Sie es jetzt aus - <a href="https://gitupload.com">GtUpload.com</a>
 
-Version = 0.0.6 <br />
+Version = 0.0.7 <br />
 Bibliotheksname = how_to_upload_package_to_pypi <br />
 Titel = How to upload your python package to PyPi <br />
 Schlüsselwörter = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />

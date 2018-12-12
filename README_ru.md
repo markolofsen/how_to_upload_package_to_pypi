@@ -4,8 +4,10 @@
 
 ---
 
-## Как загрузить свой пакет Python в PyPi?
+## How to upload your python package to PyPi
 ## Современная система для автоматической публикации вашего кода в популярных репозиториях: NPM, PyPi, GitHub
+
+How to upload your python package to PyPi. Make your code publish-ready.
 
 ### Попробуйте наш бесплатный инструмент публикации кода!
 
@@ -21,7 +23,7 @@
 
 ### Попробуйте сейчас - <a href="https://gitupload.com">GtUpload.com</a>
 
-Версия = 0.0.6 <br />
+Версия = 0.0.7 <br />
 Название библиотеки = how_to_upload_package_to_pypi <br />
 Название = How to upload your python package to PyPi <br />
 Ключевые слова = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />
