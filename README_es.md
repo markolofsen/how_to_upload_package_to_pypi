@@ -20,25 +20,10 @@ No requiere software especial - funciona en el navegador.
 
 ### Pruébalo ahora - <a href="https://gitupload.com">GtUpload.com</a>
 
-Versión = 0.0.4 <br />
+Versión = 0.0.5 <br />
 Nombre de la biblioteca = how_to_upload_package_to_pypi <br />
 Título = How to upload your python package to PyPi <br />
 Palabras clave = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />
-
-### Caliente para instalar
-
-```sh
-pip3 install how_to_upload_package_to_pypi==0.0.4
-```
-
-### Cómo utilizar
-
-```python
-from how_to_upload_package_to_pypi import how_to_upload_package_to_pypi
-how_to_upload_package_to_pypi().test('Hello')
-```
-
-
 
 ---
 
