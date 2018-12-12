@@ -4,7 +4,23 @@
 
 ---
 
-Version = 0.0.3 <br />
+## Modernes System zur automatisierten Veröffentlichung Ihres Codes in gängigen Repositorys: NPM, PyPi, GitHub
+
+### Testen Sie unser kostenloses Code-Publishing-Tool!
+
+Benötigt keine spezielle Software - es funktioniert im Browser.
+
+* Mehrsprachige Unterstützung
+* Marketinginstrument
+* Control Center für Ihre Repositories
+* Einfache Schnittstelle zum Veröffentlichen von Code
+* Unbegrenzte Anzahl von Konten für Repositorys
+* Eingebauter Code-Editor
+* Abhängigkeitsmanagement
+
+### Probieren Sie es jetzt aus - <a href="https://gitupload.com">GtUpload.com</a>
+
+Version = 0.0.4 <br />
 Bibliotheksname = how_to_upload_package_to_pypi <br />
 Titel = How to upload your python package to PyPi <br />
 Schlüsselwörter = Git,  upload,  package,  repo, package pypi library module python github repo git upload <br />
@@ -12,9 +28,8 @@ Schlüsselwörter = Git,  upload,  package,  repo, package pypi library module p
 ### Heiß zu installieren
 
 ```sh
-pip3 install how_to_upload_package_to_pypi==0.0.3
+pip3 install how_to_upload_package_to_pypi==0.0.4
 ```
-
 
 ### Wie benutzt man
 
